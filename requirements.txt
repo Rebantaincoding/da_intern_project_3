@@ -1,3 +1,0 @@
-Python 3.11.4 
-Pandas 10.0.26200 
-VS Code
